@@ -1,5 +1,4 @@
 # Cryptocurrency Prediction Using Machine Learning
-Machine learning model for cryptocurrency price prediction
 
 Introduction
 
